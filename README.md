@@ -76,6 +76,8 @@ STANCODE
 ---
 
 📷 Screenshot (Optional) | 遊戲畫面  
+
+
 <img width="547" height="851" alt="螢幕擷取畫面 2025-10-03 105254" src="https://github.com/user-attachments/assets/6340ad32-725c-4c9d-aa87-46244a35773d" />
 
  ---
