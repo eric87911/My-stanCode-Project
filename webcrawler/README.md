@@ -68,12 +68,12 @@
   female_number: 11223344
   ---------------------------
   2000s
-  Male Number: ...
-  female_number: ...
+  Male Number: 12980128
+  female_number: 9210708
   ---------------------------
   1990s
-  Male Number: ...
-  female_number: ...
+  Male Number: 14147460
+  female_number: 10645019
 
 ---
 
